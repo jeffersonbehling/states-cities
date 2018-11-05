@@ -1,2 +1,2 @@
-# states-cities
-Migrations e Seeds de Estados e Cidades brasileiras
+# Migrations e Seeds (CakePHP)
+Migrations e Seeds de Estados e Cidades brasileiras utilizando *uuid*
